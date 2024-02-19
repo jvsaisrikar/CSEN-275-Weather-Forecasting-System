@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a387ba19-6c4d-4bf7-a856-fc273201f806" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/WeatherApi/CurrentandForecastWeatherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/WeatherApi/CurrentandForecastWeatherService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/WeatherApi/WeatherApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/WeatherApi/WeatherApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/WeatherApi/CurrentandForecastWeatherResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/WeatherApi/CurrentandForecastWeatherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weatherApi/service/CurrentandForecastWeatherService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/WeatherApi/WeatherApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weatherApi/controller/WeatherApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/WeatherApi/WeatherApiApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/weatherApi/WeatherApiApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/WeatherApi/CurrentandForecastWeatherResponse$Alert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/WeatherApi/CurrentandForecastWeatherResponse$Alert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/WeatherApi/CurrentandForecastWeatherResponse$Alerts.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/WeatherApi/CurrentandForecastWeatherResponse$Alerts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/WeatherApi/CurrentandForecastWeatherResponse$Astro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/WeatherApi/CurrentandForecastWeatherResponse$ForecastDay.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/WeatherApi/CurrentandForecastWeatherResponse$ForecastDay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/WeatherApi/CurrentandForecastWeatherResponse$Hour.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/WeatherApi/CurrentandForecastWeatherResponse$Hour.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/WeatherApi/CurrentandForecastWeatherResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/WeatherApi/CurrentandForecastWeatherResponse.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +78,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.WeatherApiApplication">
+  <component name="RunManager" selected="Application.WeatherApiController">
     <configuration name="OpenWeatherMapAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -79,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeatherApiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.WeatherApi.WeatherApiApplication" />
+    <configuration name="WeatherApiController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.weatherapi.controller.WeatherApiController" />
       <module name="WeatherApi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.WeatherApi.*" />
+          <option name="PATTERN" value="com.weatherapi.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,16 +101,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeatherApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <configuration name="WeatherApiController" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="WeatherApi" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.WeatherApi.WeatherApiApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.weatherapi.controller.WeatherApiController" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WeatherApiApplication" />
+        <item itemvalue="Application.WeatherApiController" />
         <item itemvalue="Application.OpenWeatherMapAPI" />
       </list>
     </recent_temporary>

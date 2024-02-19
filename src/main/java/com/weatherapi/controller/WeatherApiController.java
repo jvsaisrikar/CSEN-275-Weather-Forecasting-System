@@ -1,6 +1,9 @@
-package com.WeatherApi;
+package com.weatherapi.controller;
 
-public class WeatherApiApplication {
+import com.weatherapi.service.CurrentandForecastWeatherService;
+import com.weatherapi.model.CurrentandForecastWeatherResponse;
+
+public class WeatherApiController {
 
 	public static void main(String[] args) {
 		CurrentandForecastWeatherService service = new CurrentandForecastWeatherService();

@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a387ba19-6c4d-4bf7-a856-fc273201f806" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/WeatherApi/OpenWeatherMapService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/WeatherApi/CurrentWeatherService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/WeatherApi/CurrentandForecastWeatherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/WeatherApi/CurrentandForecastWeatherService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/WeatherApi/WeatherApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/WeatherApi/WeatherApiApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/WeatherApi/OpenWeatherMapService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/WeatherApi/WeatherApiApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/WeatherApi/WeatherApiApplication.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +58,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.WeatherApiApplication.executor": "Run",
-    "git-widget-placeholder": "currentWeatherResponseHandling",
+    "git-widget-placeholder": "CurrentandForecastAPIResponse",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/saisrikar/IdeaProjects/CSEN-275-Weather-Forecasting-System",
     "node.js.detected.package.eslint": "true",
